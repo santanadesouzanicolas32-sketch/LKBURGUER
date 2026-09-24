@@ -3,7 +3,7 @@
 <p align="center">Site de hamburgueria artesanal com pedidos pelo WhatsApp</p>
 
 <p align="center">
-  <a href="https://santanadesouzanicolas32-sketch.github.io/LKBURGUER/"><strong>🌐 Ver projeto online</strong></a>
+  <a href="https://santanadesouzanicolas32-sketch.github.io/lk-burguer/"><strong>🌐 Ver projeto online</strong></a>
 </p>
 
 ---
@@ -31,8 +31,8 @@
 ## 🚀 Como rodar localmente
 
 ```bash
-git clone https://github.com/santanadesouzanicolas32-sketch/LKBURGUER.git
-cd LKBURGUER
+git clone https://github.com/santanadesouzanicolas32-sketch/lk-burguer.git
+cd lk-burguer
 # abra o index.html no navegador ou use a extensão Live Server do VS Code
 ```
 
